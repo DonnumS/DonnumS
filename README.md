@@ -1,5 +1,5 @@
-# Welcome to
+# Welcome to my profile page!
 
-[![DonnumS's github stats](https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=DonnumS&hide=['stars']&show_icons=true&theme=tokyonight" alt="DonnumS's github stats">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight" alt="DonnumS Top Langs">
