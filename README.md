@@ -1,7 +1,7 @@
 # Welcome to my profile page!
 
 <p align="center">
-<img src='https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&show_icons=true&theme=tokyonight' alt="DonnumS's github stats">
+<img width="600" height="300" src='https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&show_icons=true&theme=tokyonight' alt="DonnumS's github stats">
 <p/>
 
 # My top languages
