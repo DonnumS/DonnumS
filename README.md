@@ -15,7 +15,7 @@
 # My top languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight" alt="DonnumS Top Langs">
+<img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight" alt="DonnumS Top Langs">
 
 <p/>
 
