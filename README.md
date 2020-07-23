@@ -1,3 +1,5 @@
+![Hi! My Name is Sebastian](https://github.com/DonnumS/DonnumS/raw/master/name.gif)
+
 # About me
 
 :fire: I'm a cyber security student currently finishing my degree at Bergen University
