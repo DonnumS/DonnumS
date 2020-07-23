@@ -21,5 +21,5 @@
 
 - [My cryptography blog](https://sebdonnum.wordpress.com)
 - [My portfolio/website](https://sebdonnum.netlify.app)
-- [My LinkedIn](www.linkedin.com/in/sdonnum95)
+- [My LinkedIn](https://linkedin.com/in/sdonnum95)
 - [My Twitter](https://twitter.com/NnumSebastian)
