@@ -1,5 +1,7 @@
 ![Hi! My Name is Sebastian](https://github.com/DonnumS/DonnumS/raw/master/name.gif)
 
+<hr class="rounded">
+
 # About me
 
 :fire: I'm a cyber security student currently finishing my degree at Bergen University
@@ -8,13 +10,17 @@
 
 :notebook: During summer 2020 I decided to teach myself as mush as I can in the realm of cryptography. So I started a cryptography blog (Link found with other socials furhter below)
 
+<hr class="rounded">
+
 ### My github stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&show_icons=true&theme=tokyonight)
 
+<hr class="rounded">
+
 ### Personal favourites
 
-Here are some of my favourite projects
+Here are some of my favourite projects that I have worked on during the last few years
 
 <a href="https://github.com/DonnumS/python-encrypt-decrypt">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt" />
@@ -23,9 +29,13 @@ Here are some of my favourite projects
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=pathfinder" />
 </a>
 
+<hr class="rounded">
+
 ### My top languages
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight)
+
+<hr class="rounded">
 
 ## Socials
 
