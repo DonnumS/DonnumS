@@ -12,6 +12,17 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&show_icons=true&theme=tokyonight)
 
+### Personal favourites
+
+Here are some of my favourite projects
+
+<a href="https://github.com/DonnumS/python-encrypt-decrypt">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt" />
+</a>
+<a href="https://github.com/DonnumS/pathfinder">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=pathfinder" />
+</a>
+
 ### My top languages
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight)
