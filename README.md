@@ -8,20 +8,19 @@
 
 :notebook: During summer 2020 I decided to teach myself as mush as I can in the realm of cryptography. So I started a cryptography blog (Link found with other socials furhter below)
 
-<div class="row">
-<div class="column">
+![Stats](https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&show_icons=true&theme=tokyonight) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight)
+
 <p align="center">
 <img width="600" height="300" src='https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&show_icons=true&theme=tokyonight' alt="DonnumS's github stats">
 <p/>
-<div/>
 
-<div class="column">
+# My top languages
+
 <p align="center">
 <img width="600" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight" alt="DonnumS Top Langs">
 
 <p/>
-<div/>
-<div/>
+
 ## Socials
 
 - [My cryptography blog](https://sebdonnum.wordpress.com)
