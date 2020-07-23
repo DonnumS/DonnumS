@@ -31,4 +31,4 @@ Here are some of my favourite projects that I have worked on during the last few
 - [My LinkedIn](https://linkedin.com/in/sdonnum95)
 - [My Twitter](https://twitter.com/NnumSebastian)
 
-[![HitCount](http://hits.dwyl.com/DonnumS/DonnumS.svg)](http://hits.dwyl.com/DonnumS/DonnumS)
+![](https://komarev.com/ghpvc/?username=DonnumS&color=green)
