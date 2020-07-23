@@ -16,7 +16,7 @@
 
 Here are some of my favourite projects that I have worked on during the last few years
 
-<div>
+<div padding-bottom: 20px>
 <a href="https://github.com/DonnumS/python-encrypt-decrypt">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt" />
 </a>
@@ -28,8 +28,6 @@ Here are some of my favourite projects that I have worked on during the last few
 ### My top languages
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight)
-
-<hr class="rounded">
 
 ## Socials
 
