@@ -8,6 +8,22 @@
 
 :notebook: During summer 2020 I decided to teach myself as mush as I can in the realm of cryptography. So I started a cryptography blog (Link found with other socials furhter below)
 
+[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://www.wikihow.life/Make-Coffee)
+[![Website](https://img.shields.io/badge/Portfolio-sebdonnum.netlify.app-brightgreen?style=flat-square)](https://sebdonnum.netlify.app)
+[![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.google.com/search?q=python&tbm=isch&ved=2ahUKEwiI_9Tqq-TqAhUMzCoKHVz3ALsQ2-cCegQIABAA&oq=python&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIECAAQQzIECAAQQzICCAAyAggAMgIIADIECAAQQzICCAAyAggAOgcIABCxAxBDUMkfWNQlYKknaABwAHgAgAFyiAHWA5IBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=YQQaX8jKEIyYqwHc7oPYCw&bih=807&biw=1406&safe=off)
+[![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat-square&logo=java&logoColor=white)](https://www.google.com/search?q=lava&safe=off&sxsrf=ALeKk03xhIQEz5m9iYb_pnFbgPU9Lo-Vwg:1595540626864&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMu6eCrOTqAhVB_SoKHRFICVYQ_AUoAXoECBIQAw&biw=1406&bih=807)
+
+
+
+[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+[![Occupation](https://img.shields.io/badge/Occupation-Student-blue?style=flat-square)](https://www.wikihow.com/Deal-With-Stress)
+[![Goal](https://img.shields.io/badge/Goal-Graduate-blue?style=flat-square)](https://media.tenor.com/images/47597d74a785476bc90e226af40e7b1d/tenor.gif)
+
+
+
+
 ## My github stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&show_icons=true&theme=tokyonight)
