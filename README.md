@@ -1,4 +1,4 @@
-# Hi! I'm Sebastian
+# About me
 
 :fire: I'm a cyber security student currently finishing my degree at Bergen University
 
@@ -23,3 +23,5 @@
 - [My portfolio/website](https://sebdonnum.netlify.app)
 - [My LinkedIn](https://linkedin.com/in/sdonnum95)
 - [My Twitter](https://twitter.com/NnumSebastian)
+
+[![HitCount](http://hits.dwyl.com/DonnumS/DonnumS.svg)](http://hits.dwyl.com/DonnumS/DonnumS)
