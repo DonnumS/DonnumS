@@ -25,6 +25,8 @@ Here are some of my favourite projects that I have worked on during the last few
 </a>
 </div>
 
+<hr>
+
 ## My top languages
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight)
