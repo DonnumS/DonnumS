@@ -21,6 +21,10 @@
 [![Occupation](https://img.shields.io/badge/Occupation-Student-blue?style=flat-square)](https://www.wikihow.com/Deal-With-Stress)
 [![Goal](https://img.shields.io/badge/Goal-Graduate-blue?style=flat-square)](https://media.tenor.com/images/47597d74a785476bc90e226af40e7b1d/tenor.gif)
 
+[![Twitter](https://img.shields.io/badge/Twitter-@SDonnum-red?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SDonnum)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Dønnum-red?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdonnum95)
+[![Twitter](https://img.shields.io/badge/Blog-sebdonnum.wordpress.com-red?style=flat-square&logo=wordpress&logoColor=white)](https://sebdonnum.wordpress.com)
+
 
 
 
