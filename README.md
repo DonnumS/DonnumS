@@ -24,6 +24,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@SDonnum-red?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SDonnum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Dønnum-red?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdonnum95)
 [![Twitter](https://img.shields.io/badge/Blog-sebdonnum.wordpress.com-red?style=flat-square&logo=wordpress&logoColor=white)](https://sebdonnum.wordpress.com)
+![](https://komarev.com/ghpvc/?username=DonnumS&color=red)
 
 
 
@@ -44,11 +45,5 @@ Here are some of my favourite projects that I have worked on during the last few
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight)
 
-## Socials
 
-- [My cryptography blog](https://sebdonnum.wordpress.com)
-- [My portfolio/website](https://sebdonnum.netlify.app)
-- [My LinkedIn](https://linkedin.com/in/sdonnum95)
-- [My Twitter](https://twitter.com/NnumSebastian)
 
-![](https://komarev.com/ghpvc/?username=DonnumS&color=green)
