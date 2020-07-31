@@ -23,6 +23,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Dønnum-red?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdonnum95)
 [![Twitter](https://img.shields.io/badge/Blog-sebdonnum.wordpress.com-red?style=flat-square&logo=wordpress&logoColor=white)](https://sebdonnum.wordpress.com)
 ![](https://komarev.com/ghpvc/?username=DonnumS&color=red)
+<<<<<<< HEAD
+=======
+
+> > > > > > > fa51a2de435bf14e59105bcc56fd3a617ea30930
 
 ## My github stats
 
@@ -32,8 +36,17 @@
 
 Here are some of my favourite projects that I have worked on during the last few years
 
+<<<<<<< HEAD
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt&theme=tokyonight)](https://github.com/DonnumS/python-encrypt-decrypt) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=pathfinder&theme=tokyonight)](https://github.com/DonnumS/pathfinder)
+=======
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt&theme=tokyonight)](https://github.com/DonnumS/python-encrypt-decrypt) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=pathfinder&theme=tokyonight)](https://github.com/DonnumS/pathfinder)
+
+> > > > > > > fa51a2de435bf14e59105bcc56fd3a617ea30930
 
 ## My top languages
 
 ![Lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&hide_langs_below=1&theme=tokyonight)
+<<<<<<< HEAD
+=======
+
+> > > > > > > fa51a2de435bf14e59105bcc56fd3a617ea30930
