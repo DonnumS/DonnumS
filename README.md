@@ -26,7 +26,7 @@
 
 ## My github stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=DonnumS&hide=stars]&theme=tokyonight)
+![Github stats](https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&theme=tokyonight)
 
 ## Personal favourites
 
