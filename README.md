@@ -1,6 +1,6 @@
 ![Hi! My Name is Sebastian](https://github.com/DonnumS/DonnumS/raw/master/about.gif)
 
-# About me
+## About me
 
 :fire: I'm a cyber security student currently finishing my degree at Bergen University
 
@@ -36,6 +36,7 @@ Here are some of my favourite projects that I have worked on during the last few
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt&theme=tokyonight)](https://github.com/DonnumS/python-encrypt-decrypt) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=pathfinder&theme=tokyonight)](https://github.com/DonnumS/pathfinder)
 
 ## Latest blogposts
+These are my latest post from my cryptography blog. Check them out!
 
 <!-- BLOG-POST-LIST:START -->
 - [RSA Cryptosystem – Keys](https://sebdonnum.wordpress.com/2020/07/28/rsa-cryptosystem-keys/)
