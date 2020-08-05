@@ -26,7 +26,8 @@
 
 ## My github stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=DonnumS&hide=["stars"]&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=DonnumS&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal favourites
 
@@ -36,9 +37,11 @@ Here are some of my favourite projects that I have worked on during the last few
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt&theme=tokyonight)](https://github.com/DonnumS/python-encrypt-decrypt) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=pathfinder&theme=tokyonight)](https://github.com/DonnumS/pathfinder)
 
 ## Latest blogposts
+
 These are my latest post from my cryptography blog. Check them out!
 
 <!-- BLOG-POST-LIST:START -->
+
 - [RSA Cryptosystem – Keys](https://sebdonnum.wordpress.com/2020/07/28/rsa-cryptosystem-keys/)
 - [Cryptopals Challenge 5 – Repeating-key XOR](https://sebdonnum.wordpress.com/2020/07/26/cryptopals-challenge-5-repeating-key-xor/)
 - [Cryptopals Challenge 4 – Detect single-character XOR](https://sebdonnum.wordpress.com/2020/07/22/cryptopals-challenge-4-detect-single-character-xor/)
