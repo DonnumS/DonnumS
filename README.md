@@ -1,4 +1,4 @@
-![Hi! My Name is Sebastian](https://github.com/DonnumS/DonnumS/raw/master/about.gif)
+![Hi! My Name is Sebastian](https://github.com/DonnumS/DonnumS/raw/master/welcome.gif)
 
 ## About me
 
