@@ -26,8 +26,8 @@
 
 ## My github stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DonnumS&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=DonnumS&show_icons=true&theme=radical&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&&theme=radicallayout=compact)(https://github.com/anuraghazra/github-readme-stats)
 
 ## Personal favourites
 
