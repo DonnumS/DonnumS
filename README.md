@@ -26,8 +26,8 @@
 
 ## My github stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DonnumS&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&&theme=radical&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=DonnumS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&&theme=tokyonight&layout=compact)
 
 ## Personal favourites
 
