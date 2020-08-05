@@ -41,7 +41,6 @@ Here are some of my favourite projects that I have worked on during the last few
 These are my latest post from my cryptography blog. Check them out!
 
 <!-- BLOG-POST-LIST:START -->
-
 - [RSA Cryptosystem – Keys](https://sebdonnum.wordpress.com/2020/07/28/rsa-cryptosystem-keys/)
 - [Cryptopals Challenge 5 – Repeating-key XOR](https://sebdonnum.wordpress.com/2020/07/26/cryptopals-challenge-5-repeating-key-xor/)
 - [Cryptopals Challenge 4 – Detect single-character XOR](https://sebdonnum.wordpress.com/2020/07/22/cryptopals-challenge-4-detect-single-character-xor/)
