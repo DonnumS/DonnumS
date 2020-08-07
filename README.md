@@ -4,9 +4,15 @@
 
 :fire: I'm a cyber security student currently finishing my degree at Bergen University
 
-:computer: I love working with Java or Python. But I'm working on getting more comfortable with C++ and Javascript
+:computer: I love working with Java or Python.
 
-:notebook: During summer 2020 I decided to teach myself as mush as I can in the realm of cryptography. So I started a cryptography blog (Link found with other socials furhter below)
+:notebook: I'm currently learning
+
+- JavaScript
+- ReactJS
+- C++
+
+:closed_lock_with_key: During summer 2020 I decided to teach myself as mush as I can in the realm of cryptography. So I started a cryptography blog (Link found with other socials furhter below)
 
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=github&logoColor=white)](https://www.wikihow.life/Make-Coffee)
 [![Website](https://img.shields.io/badge/Portfolio-sebdonnum.netlify.app-brightgreen?style=flat-square)](https://sebdonnum.netlify.app)
@@ -39,6 +45,7 @@ Here are some of my favourite projects that I have worked on during the last few
 These are my latest post from my cryptography blog. Check them out!
 
 <!-- BLOG-POST-LIST:START -->
+
 - [RSA Cryptosystem – Keys](https://sebdonnum.wordpress.com/2020/07/28/rsa-cryptosystem-keys/)
 - [Cryptopals Challenge 5 – Repeating-key XOR](https://sebdonnum.wordpress.com/2020/07/26/cryptopals-challenge-5-repeating-key-xor/)
 - [Cryptopals Challenge 4 – Detect single-character XOR](https://sebdonnum.wordpress.com/2020/07/22/cryptopals-challenge-4-detect-single-character-xor/)
