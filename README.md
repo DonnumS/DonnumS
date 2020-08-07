@@ -6,13 +6,13 @@
 
 :computer: I love working with Java or Python.
 
-:notebook: I'm currently learning
+:seedling: I'm currently learning:
 
 - JavaScript
 - ReactJS
 - C++
 
-:closed_lock_with_key: During summer 2020 I decided to teach myself as mush as I can in the realm of cryptography. So I started a cryptography blog (Link found with other socials furhter below)
+:notebook: During summer 2020 I decided to teach myself as mush as I can in the realm of cryptography. So I started a cryptography blog (Link found with other socials furhter below)
 
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=github&logoColor=white)](https://www.wikihow.life/Make-Coffee)
 [![Website](https://img.shields.io/badge/Portfolio-sebdonnum.netlify.app-brightgreen?style=flat-square)](https://sebdonnum.netlify.app)
