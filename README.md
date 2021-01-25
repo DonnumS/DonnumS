@@ -29,7 +29,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DonnumS&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DonnumS&&theme=tokyonight&layout=compact)
 
-## Favortie projects
+## Favorite projects
 
 Here are some of my favourite projects that I have worked on during the last few years
 
