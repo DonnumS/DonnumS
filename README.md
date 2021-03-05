@@ -4,6 +4,8 @@
 
 :fire: Bachelor's degree in cyber security
 
+:norway: From Norway :snow:
+
 :seedling: I'm currently learning:
 
 - SQL
