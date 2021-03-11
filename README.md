@@ -12,7 +12,6 @@
 - PhP
 
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=github&logoColor=white)](https://www.wikihow.life/Make-Coffee)
-[![Website](https://img.shields.io/badge/Portfolio-sebdonnum.netlify.app-brightgreen?style=flat-square)](https://sebdonnum.netlify.app)
 [![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.google.com/search?q=python&tbm=isch&ved=2ahUKEwiI_9Tqq-TqAhUMzCoKHVz3ALsQ2-cCegQIABAA&oq=python&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIECAAQQzIECAAQQzICCAAyAggAMgIIADIECAAQQzICCAAyAggAOgcIABCxAxBDUMkfWNQlYKknaABwAHgAgAFyiAHWA5IBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=YQQaX8jKEIyYqwHc7oPYCw&bih=807&biw=1406&safe=off)
 [![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat-square&logo=java&logoColor=white)](https://www.google.com/search?q=lava&safe=off&sxsrf=ALeKk03xhIQEz5m9iYb_pnFbgPU9Lo-Vwg:1595540626864&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMu6eCrOTqAhVB_SoKHRFICVYQ_AUoAXoECBIQAw&biw=1406&bih=807)
 
@@ -22,7 +21,6 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-@SDonnum-red?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SDonnum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Dønnum-red?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdonnum95)
-[![Twitter](https://img.shields.io/badge/Blog-sebdonnum.wordpress.com-red?style=flat-square&logo=wordpress&logoColor=white)](https://sebdonnum.wordpress.com)
 ![](https://komarev.com/ghpvc/?username=DonnumS&color=red)
 
 ## My github stats
