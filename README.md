@@ -19,8 +19,6 @@
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Occupation](https://img.shields.io/badge/Occupation-Student-blue?style=flat-square)](https://www.wikihow.com/Deal-With-Stress)
-[![Goal](https://img.shields.io/badge/Goal-Graduate-blue?style=flat-square)](https://media.tenor.com/images/47597d74a785476bc90e226af40e7b1d/tenor.gif)
 
 [![Twitter](https://img.shields.io/badge/Twitter-@SDonnum-red?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SDonnum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Dønnum-red?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdonnum95)
