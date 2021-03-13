@@ -31,7 +31,7 @@
 
 Here are some of my favourite projects that I have worked on during the last few years
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt&theme=tokyonight)](https://github.com/DonnumS/python-encrypt-decrypt) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=pathfinder&theme=tokyonight)](https://github.com/DonnumS/pathfinder)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=python-encrypt-decrypt&theme=tokyonight)](https://github.com/DonnumS/python-bug-tracker) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DonnumS&repo=pathfinder&theme=tokyonight)](https://github.com/DonnumS/pathfinder)
 
 <!--- ## Latest blogposts
 These are my latest post from my cryptography blog. Check them out!
