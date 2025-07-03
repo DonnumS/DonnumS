@@ -4,12 +4,6 @@
 
 :fire: Bachelor's degree in cyber security
 
-:norway: From Norway :snowflake:
-
-:seedling: I'm currently learning:
-
-- SQL
-- PhP
 
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=github&logoColor=white)](https://www.wikihow.life/Make-Coffee)
 [![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.google.com/search?q=python&tbm=isch&ved=2ahUKEwiI_9Tqq-TqAhUMzCoKHVz3ALsQ2-cCegQIABAA&oq=python&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIECAAQQzIECAAQQzICCAAyAggAMgIIADIECAAQQzICCAAyAggAOgcIABCxAxBDUMkfWNQlYKknaABwAHgAgAFyiAHWA5IBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=YQQaX8jKEIyYqwHc7oPYCw&bih=807&biw=1406&safe=off)
