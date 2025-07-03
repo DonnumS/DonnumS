@@ -15,11 +15,7 @@
 [![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.google.com/search?q=python&tbm=isch&ved=2ahUKEwiI_9Tqq-TqAhUMzCoKHVz3ALsQ2-cCegQIABAA&oq=python&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIECAAQQzIECAAQQzICCAAyAggAMgIIADIECAAQQzICCAAyAggAOgcIABCxAxBDUMkfWNQlYKknaABwAHgAgAFyiAHWA5IBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=YQQaX8jKEIyYqwHc7oPYCw&bih=807&biw=1406&safe=off)
 [![Java](https://img.shields.io/badge/Language-Java-yellow?style=flat-square&logo=java&logoColor=white)](https://www.google.com/search?q=lava&safe=off&sxsrf=ALeKk03xhIQEz5m9iYb_pnFbgPU9Lo-Vwg:1595540626864&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiMu6eCrOTqAhVB_SoKHRFICVYQ_AUoAXoECBIQAw&biw=1406&bih=807)
 
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@SDonnum-red?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/SDonnum)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Dønnum-red?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdonnum95)
 ![](https://komarev.com/ghpvc/?username=DonnumS&color=red)
 
