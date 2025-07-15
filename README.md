@@ -1,9 +1,4 @@
-![Hi! My Name is Sebastian](https://github.com/DonnumS/DonnumS/raw/master/welcome.gif)
-
-## About me
-
-:fire: Bachelor's degree in cyber security
-
+<!-- ![Hi! My Name is Sebastian](https://github.com/DonnumS/DonnumS/raw/master/welcome.gif) -->
 
 [![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=github&logoColor=white)](https://www.wikihow.life/Make-Coffee)
 [![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.google.com/search?q=python&tbm=isch&ved=2ahUKEwiI_9Tqq-TqAhUMzCoKHVz3ALsQ2-cCegQIABAA&oq=python&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIECAAQQzIECAAQQzICCAAyAggAMgIIADIECAAQQzICCAAyAggAOgcIABCxAxBDUMkfWNQlYKknaABwAHgAgAFyiAHWA5IBAzUuMZgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=YQQaX8jKEIyYqwHc7oPYCw&bih=807&biw=1406&safe=off)
